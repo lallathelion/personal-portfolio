@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akash Singh - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Akash Singh</h1>
+        <nav>
+            <a href="#about">About Me</a>
+            <a href="#projects">Projects</a>
+            <a href="#skills">Skills</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I’m Akash Singh, a 2nd-year Computer Science and Engineering (CSE) student at IIIT Bhopal. I'm passionate about exploring the realms of technology and continuously building my skills in various domains like programming, web development, and cybersecurity. Alongside my studies, I’m actively involved in extracurricular projects that allow me to apply my knowledge and push my learning boundaries. I’m enthusiastic about taking on new challenges and collaborating on innovative projects that make a difference!</p>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Library Management System</h3>
+            <p>Developed a command-line-based Library Management System using C++ that allows users to manage books and student records. Implemented features like adding, removing, and searching for books.</p>
+        </div>
+        <!-- Add more projects here if needed -->
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>C++</li>
+            <li>Cybersecurity Basics</li>
+            <li>Problem-Solving</li>
+            <li>Version Control (Git)</li>
+        </ul>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Phone: <a href="tel:+917307645853">+91 7307645853</a></p>
+        <p>Email: <a href="mailto:akashsinghlalla@gmail.com">akashsinghlalla@gmail.com</a></p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
